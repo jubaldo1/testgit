@@ -70,3 +70,7 @@ ul {
     font-size: x-large;
     color: #27AE60;
 }
+
+#content {
+    text-align: center;
+}
